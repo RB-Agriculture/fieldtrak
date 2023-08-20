@@ -1,5 +1,5 @@
 # fieldtrak
-Knock the Expensive ag technology down a peg <br>
+Knock the expensive ag technology down a peg <br>
 <br>
 Thanks for checking out my project! <br>
 <br>
